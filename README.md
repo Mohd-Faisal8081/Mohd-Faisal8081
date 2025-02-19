@@ -1,4 +1,4 @@
-![Logo](https://github.com/Mohd-Faisal8081/MohdFaisal/blob/main/Mohd%20Faisal.png)
+![Logo](https://github.com/Mohd-Faisal8081/Mohd-Faisal8081/blob/main/Mohd%20Faisal.png)
 
 ## Hi 👋, I'm Mohd Faisal
 ### Data Analyst | Power BI | Tableau |  SQL | Excel 

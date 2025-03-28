@@ -3,7 +3,7 @@
 ## Hi 👋, I'm Mohd Faisal
 ### Data Analyst | Business Analyst | SQL | SQl Server | Power BI | Tableau | Excel 
 
-Transforming raw data into actionable insights, I specialize in data analysis and visualization. With expertise in **Power BI, Tableau, SQL, and Excel**, I have successfully completed multiple projects that drive data-driven decision-making.
+Transforming raw data into actionable insights, I specialize in data analysis and visualization. With expertise in **SQl, SQl Server, Power BI, Tableau, and Excel**, I have successfully completed multiple projects that drive data-driven decision-making.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mohd-Faisal8081&color=blue)
 

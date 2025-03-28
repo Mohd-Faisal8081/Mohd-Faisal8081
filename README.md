@@ -38,3 +38,19 @@ Transforming raw data into actionable insights, I specialize in data analysis an
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+Got it! Here’s the updated **Skills & Tools** section where:  
+
+✅ **SQL is plain text (no badge, no logo).**  
+✅ **SQL Server has a badge without a logo.**  
+
+```md
+### ⚡ Skills & Tools:
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
+**SQL**
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
+```
+
+This ensures that **SQL** appears as plain text, and **SQL Server** is in a badge but **without a logo.** Let me know if you need further tweaks! 🚀

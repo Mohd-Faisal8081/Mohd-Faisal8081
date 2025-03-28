@@ -1,7 +1,7 @@
 ![Logo](https://github.com/Mohd-Faisal8081/Mohd-Faisal8081/blob/main/Mohd%20Faisal.png)
 
 ## Hi 👋, I'm Mohd Faisal
-### Data Analyst | Business Analyst | SQL | Power BI | Tableau | Excel 
+### Data Analyst | Business Analyst | SQL | SQl Server | Power BI | Tableau | Excel 
 
 Transforming raw data into actionable insights, I specialize in data analysis and visualization. With expertise in **Power BI, Tableau, SQL, and Excel**, I have successfully completed multiple projects that drive data-driven decision-making.
 

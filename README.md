@@ -8,10 +8,11 @@ Transforming raw data into actionable insights, I specialize in data analysis an
 ![Profile Views](https://komarev.com/ghpvc/?username=Mohd-Faisal8081&color=blue)
 
 🔹 **Check out my projects**:  
-- [Pizza Sales (SQL Server)](https://github.com/Mohd-Faisal8081/Pizza_Sales)
-- [E-Commerce Dashboard](https://github.com/Mohd-Faisal8081/E-Commerce-Dashboard)
+- [E-Commerce Dashboard (Power BI)](https://github.com/Mohd-Faisal8081/E-Commerce-Dashboard)
+- [Sales Dashboard (Power BI)](https://github.com/Mohd-Faisal8081/Sales-Dashboard)
+- 
 - [HR Analytics Dashboard](https://github.com/Mohd-Faisal8081/HR-Analytics-Dashboard)
-- [Sales Dashboard](https://github.com/Mohd-Faisal8081/Sales-Dashboard)
+- [Pizza Sales (SQL)](https://github.com/Mohd-Faisal8081/Pizza_Sales)
 - [Budget Tracker](https://github.com/Mohd-Faisal8081/Budget-Tracker-Excel)
 
 ### 📫 Connect with me:  

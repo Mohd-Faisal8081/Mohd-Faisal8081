@@ -10,8 +10,8 @@ Transforming raw data into actionable insights, I specialize in data analysis an
 🔹 **Check out my projects**:  
 - [E-Commerce Dashboard (Power BI)](https://github.com/Mohd-Faisal8081/E-Commerce-Dashboard)
 - [Sales Dashboard (Power BI)](https://github.com/Mohd-Faisal8081/Sales-Dashboard)
-- 
-- [HR Analytics Dashboard](https://github.com/Mohd-Faisal8081/HR-Analytics-Dashboard)
+- [Investment Analysis Dashboard (Power BI)](https://github.com/Mohd-Faisal8081/Investment-Analysis-Dashboard)
+- [HR Analytics Dashboard (Tableau)](https://github.com/Mohd-Faisal8081/HR-Analytics-Dashboard)
 - [Pizza Sales (SQL)](https://github.com/Mohd-Faisal8081/Pizza_Sales)
 - [Budget Tracker](https://github.com/Mohd-Faisal8081/Budget-Tracker-Excel)
 
